@@ -1,0 +1,112 @@
+/*{border-style: solid;
+border-color: red;}*/
+
+
+* {font-family: 'Open Sans', sans-serif;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+}
+#section1 {
+    background-color: #cc64f3;
+    color: white;
+}
+#section2 {
+    color: #cc64f3;
+background-color: white;
+  
+}
+#section3 {
+   background-color: #cc64f3;
+    color: white;
+}
+#section4 {
+     color: #cc64f3;
+background-color: white;
+}
+#section5 {
+   background-color: #cc64f3;
+    color: white;
+}
+#section1 a:link{color: white;}
+#section1 a:visited{color: white;}
+#section1 a:hover{color: white;}
+#section1 a:active{color: white;}
+
+#section2 a:link{color: #cc64f3;}
+#section2 a:visited{color: #cc64f3;}
+#section2 a:hover{color: #cc64f3;}
+#section2 a:active{color: #cc64f3;}
+
+#section3 a:link{color: white;}
+#section3 a:visited{color: white;}
+#section3 a:hover{color: white;}
+#section3 a:active{color: white;}
+#section3 a{border-style: solid;
+border-radius: 30%;
+border-color: white;
+}
+
+#section4 a:link{color: #cc64f3;}
+#section4 a:visited{color: #cc64f3;}
+#section4 a:hover{color: #cc64f3;}
+#section4 a:active{color: #cc64f3;}
+
+#section5 a:link{color: white;}
+#section5 a:visited{color: white;}
+#section5 a:hover{color: white;}
+#section5 a:active{color: white;}
+
+.btn {
+    background-color: white;
+    border-style: solid;
+    border-color: #cc64f3;
+    color: #cc64f3;
+}
+#section1 h1{color: #cc64f3;}
+nav {
+     background-color: #cc64f3;
+    color: white;
+}
+#section2 lable{align-content: flex-start;
+    align-items: flex-start;
+    align-self: flex-start;
+    text-align: left;
+}
+#section3 p{font-size: 1.5rem;}
+#section4 a{border-style: solid;
+border-color: #cc64f3;
+    border-radius: 30%;
+}
+
+/* padding and margins*/
+#section2 {
+   padding-top: 7%;
+    padding-bottom: 7%;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#section3 {
+   padding-top: 7%;
+    padding-bottom: 7%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#section4 {
+    padding-top: 5%;
+    padding-bottom: 3%;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#Section2 h1{padding-bottom:10%;}
+#section3 p{padding-bottom: 7%;}
+#section3 a{padding: 2%;}
+#section4 h1{margin-bottom: 5%;}
+#section4 h3{padding: 5%;}
+#section4 a{padding: 2%;}
